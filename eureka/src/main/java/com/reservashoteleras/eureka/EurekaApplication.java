@@ -2,7 +2,7 @@ package com.reservashoteleras.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+// Comentgit
 @SpringBootApplication
 public class EurekaApplication {
 
