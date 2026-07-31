@@ -33,6 +33,4 @@ public class Usuarios {
     @Column(name = "ESTADO", nullable = false, length = 10)
     private String estado;
 
-
-
 }
