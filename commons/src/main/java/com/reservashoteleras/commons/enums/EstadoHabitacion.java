@@ -1,6 +1,6 @@
 package com.reservashoteleras.commons.enums;
 
-import com.angel.commons.exceptions.RecursoNoEncontradoException;
+import com.reservashoteleras.commons.exceptions.RecursoNoEncontradoException;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 
