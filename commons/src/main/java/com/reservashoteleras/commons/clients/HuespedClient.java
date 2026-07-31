@@ -1,6 +1,6 @@
 package com.reservashoteleras.commons.clients;
 
-import com.angel.commons.dto.huespedes.HuespedResponse;
+import com.reservashoteleras.commons.dto.huespedes.HuespedResponse;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
